@@ -18,7 +18,7 @@ or
 npm run dev:server
 ```
 
-After starting the [server](http://localhost: 3000 "server") and accessing it. The connection is established.
+After starting the [server](http://localhost: 3000) and accessing it. The connection is established.
 
 It is possible to send a message to the server, and the server will transmit the message **instantly** to all connected clients. You can see the result in the **frontend**. The messages are added to a div 'responses'.
 
